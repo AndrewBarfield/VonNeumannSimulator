@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>"C:\Users\Andrew M. Barfield\Desktop\242\fetch\CPUTest14.dat"</StartArguments>
+  </PropertyGroup>
+</Project>
